@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ZeadShalaby/Twitter-Web-app">
+  <a href="https://github.com/ZeadShalaby/Twitter-Web-System">
           <img src="https://imgur.com/7HSpOZf.png?w=1600" alt="Logo" width="560" height="340">
     
   </a>
@@ -14,7 +14,7 @@
     <br/>
   </p>
   
-![Forks](https://img.shields.io/github/forks/ZeadShalaby/Tickets-System?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Tickets-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Tickets-System)
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Twitter-Web-System?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Twitter-Web-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Twitter-Web-System)
 
 ## Table Of Contents
 
@@ -46,6 +46,8 @@ about what you should do next. Even better, use a simple tasks list template, al
 
 ## Built With
 
+**Client Laravel blade , bootstrap 
+
 **Server:** Apache, Laravel
 
 **Containerization Service:** Docker
@@ -73,14 +75,13 @@ Clone the project
 
 ```bash
 
-https://github.com/ZeadShalaby/Simple-To-Do-List-Application
-
+https://github.com/ZeadShalaby/Twitter-Web-System
 ```
 
 Go to the project directory
 
 ```bash
-  cd Tickets-System
+  cd Twitter-Web--System
 ```
 
 Install dependencies
