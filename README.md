@@ -14,7 +14,7 @@
     <br/>
   </p>
   
-![Forks](https://img.shields.io/github/forks/ZeadShalaby/Twitter-Web-System?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Twitter-Web-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Twitter-Web-System)
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Twitter-Web-System?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Twitter-Web-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Twitter-web-System)
 
 ## Table Of Contents
 
@@ -28,7 +28,6 @@
     * [Via Container](#running-via-container)
 * [Contributing](#contributing)
 * [Authors](#authors)
-* [Postman Collection](#postman-ccollection)
 
 
 <br>
@@ -38,10 +37,9 @@
 
 ## About The Project
 it's a projects coded in Backend Laravel .
-Frontend Vue.Js.
+Frontend blade
 Describe of the Project:
-A Task list makes it easy to bring all those simple tasks, as well as complex ones, to a single place so you don't have to waste time thinking
-about what you should do next. Even better, use a simple tasks list template, also known as a to-do list template, to stay on track and deadline.
+Twitter,It is one of the world's largest social media websites and one of the most visited websites in the world. Users can share short text messages, images, and videos in posts (formerly "tweets") and like or repost/retweet other users' content..
 
 
 ## Built With
@@ -159,25 +157,13 @@ go to the following route
     http://127.0.0.1:8000/
 ```
  
-## postman-ccollection
-
-1. **Import the Postman Collection**:
-   - Open Postman.
-   - Click on "Import" and upload the `Tickets.postman_collection.json` file.
-
-2. **Set Base URL in Postman**:
-   - Click on "Environments" and create a new environment.
-   - Set a variable `baseUrl` to `http://127.0.0.1:8000`.
-
-3. **Send Requests**:
-   - Select the imported collection and run the requests to test the API endpoints.
 
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
 
 * If you have suggestions for adding or removing projects, feel free
-  to [open an issue](https://github.com/ZeadShalaby/Tickets-System/issues/new) to discuss it, or directly
+  to [open an issue](https://github.com/ZeadShalaby/Twitter-web-System/issues/new) to discuss it, or directly
   create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
