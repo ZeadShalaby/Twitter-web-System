@@ -44,7 +44,7 @@ Twitter,It is one of the world's largest social media websites and one of the mo
 
 ## Built With
 
-**Client Laravel blade , bootstrap 
+**Client:** Laravel blade , bootstrap 
 
 **Server:** Apache, Laravel
 
