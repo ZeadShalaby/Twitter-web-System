@@ -145,11 +145,6 @@ Start the server and run watch
     php artisan serve
 ```
 
-or alternatively run the .bat
-
-```bash
-    /autorun.bat
-```
 
 go to the following route
 
