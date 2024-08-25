@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Twitter-Web-System">
-          <img src="https://imgur.com/7HSpOZf.png?w=1600" alt="Logo" width="560" height="340">
+          <img src="https://imgur.com/c5wCVCV.png?w=1600" alt="Logo" width="4380" height="350">
     
   </a>
 
