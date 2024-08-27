@@ -51,7 +51,11 @@
         </div>
     @endif
 
-
+    @if (Session::has('status'))
+        <div class="alert alert-success">
+            {{ Session::get('status') }}
+        </div>
+    @endif
 
     <div class="container mx-auto h-screen">
         <div class="flex flex-row justify-center">
