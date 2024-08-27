@@ -12,20 +12,6 @@
 
 <body>
 
-    @if ($message = Session::get('error'))
-        <div class="alert alert-danger alert-block">
-            <button type="button" class="close" data-dismiss="alert">×</button>
-            <strong>{{ $message }}</strong>
-        </div>
-    @endif
-
-    @if (Session::has('status'))
-        <div class="alert alert-success">
-            {{ Session::get('status') }}
-        </div>
-    @endif
-
-
     <header class="container">
         <div class="logo">
             <img src="{{ URL('images/img/twitter-logo.png') }}" alt="Logo do Twitter" style="width: 40%">
